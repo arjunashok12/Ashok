@@ -12,7 +12,7 @@ main()
             break;
         }
     }
-    if(f==0)
+    if(f==0&&a!=1)
     printf("%d is a prime number",a);
     else
     printf("%d is not a prime number",a);
